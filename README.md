@@ -1,0 +1,2 @@
+# BetBot
+The bookmaker bot
